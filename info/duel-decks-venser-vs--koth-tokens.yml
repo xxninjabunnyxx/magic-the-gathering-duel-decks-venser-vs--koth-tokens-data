@@ -1,0 +1,16 @@
+---
+object: set
+id: 7ed0ca7e-daea-4cf6-8667-9fdc894e539c
+code: tddi
+name: 'Duel Decks: Venser vs. Koth Tokens'
+uri: https://api.scryfall.com/sets/7ed0ca7e-daea-4cf6-8667-9fdc894e539c
+scryfall_uri: https://scryfall.com/sets/tddi
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Atddi&unique=prints
+released_at: '2012-03-30'
+set_type: token
+card_count: 2
+parent_set_code: ddi
+digital: false
+nonfoil_only: true
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/ddi.svg?1694404800
